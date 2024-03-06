@@ -11,8 +11,10 @@ public class LibraryManager : ILibraryManager
     /// <param name="book">The book to add.</param>
     public void AddBook(Book book)
     {
-        // TODO step 1.
-        // TODO step 2.
+        if (_books.FirstOrDefault(a => a.Articul == book.Articul) != null)
+            return;
+        _books.Add(book);
+       
     }
 
     /// <summary>
@@ -21,6 +23,6 @@ public class LibraryManager : ILibraryManager
     /// <param name="book">The book to remove.</param>
     public void RemoveBook(Book book)
     {
-        // TODO step 1.
+        _books.Remove(book);
     }
 }
