@@ -10,3 +10,16 @@
 /Users/vanyachernov/Desktop/nunit-csharp-samples/nunit-csharp-samples/obj/Debug/net8.0/refint/nunit-csharp-samples.dll
 /Users/vanyachernov/Desktop/nunit-csharp-samples/nunit-csharp-samples/obj/Debug/net8.0/nunit-csharp-samples.pdb
 /Users/vanyachernov/Desktop/nunit-csharp-samples/nunit-csharp-samples/obj/Debug/net8.0/ref/nunit-csharp-samples.dll
+D:\Subjects\4course\Тестування\Pr10\nunit-csharp-samples\nunit-csharp-samples\bin\Debug\net8.0\nunit-csharp-samples.deps.json
+D:\Subjects\4course\Тестування\Pr10\nunit-csharp-samples\nunit-csharp-samples\bin\Debug\net8.0\nunit-csharp-samples.dll
+D:\Subjects\4course\Тестування\Pr10\nunit-csharp-samples\nunit-csharp-samples\bin\Debug\net8.0\nunit-csharp-samples.pdb
+D:\Subjects\4course\Тестування\Pr10\nunit-csharp-samples\nunit-csharp-samples\obj\Debug\net8.0\nunit-csharp-samples.csproj.AssemblyReference.cache
+D:\Subjects\4course\Тестування\Pr10\nunit-csharp-samples\nunit-csharp-samples\obj\Debug\net8.0\nunit-csharp-samples.GeneratedMSBuildEditorConfig.editorconfig
+D:\Subjects\4course\Тестування\Pr10\nunit-csharp-samples\nunit-csharp-samples\obj\Debug\net8.0\nunit-csharp-samples.AssemblyInfoInputs.cache
+D:\Subjects\4course\Тестування\Pr10\nunit-csharp-samples\nunit-csharp-samples\obj\Debug\net8.0\nunit-csharp-samples.AssemblyInfo.cs
+D:\Subjects\4course\Тестування\Pr10\nunit-csharp-samples\nunit-csharp-samples\obj\Debug\net8.0\nunit-csharp-samples.csproj.CoreCompileInputs.cache
+D:\Subjects\4course\Тестування\Pr10\nunit-csharp-samples\nunit-csharp-samples\obj\Debug\net8.0\nunit-csharp-samples.sourcelink.json
+D:\Subjects\4course\Тестування\Pr10\nunit-csharp-samples\nunit-csharp-samples\obj\Debug\net8.0\nunit-csharp-samples.dll
+D:\Subjects\4course\Тестування\Pr10\nunit-csharp-samples\nunit-csharp-samples\obj\Debug\net8.0\refint\nunit-csharp-samples.dll
+D:\Subjects\4course\Тестування\Pr10\nunit-csharp-samples\nunit-csharp-samples\obj\Debug\net8.0\nunit-csharp-samples.pdb
+D:\Subjects\4course\Тестування\Pr10\nunit-csharp-samples\nunit-csharp-samples\obj\Debug\net8.0\ref\nunit-csharp-samples.dll
