@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("nunit-csharp-samples")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52089c3e1a3fde108d0223caa9f11ffb66628c9a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c522e0d3dd06b9ccc5d63e997fc21ec3a92780ed")]
 [assembly: System.Reflection.AssemblyProductAttribute("nunit-csharp-samples")]
 [assembly: System.Reflection.AssemblyTitleAttribute("nunit-csharp-samples")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
